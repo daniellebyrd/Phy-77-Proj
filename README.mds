@@ -1,1 +1,17 @@
+# Gaia Open Cluster Detection with DBSCAN
 
+This repository reproduces the analysis, figures, and results presented in the accompanying report.
+The workflow is designed to run **without modification** on UC Berkeley DataHub or any standard
+Jupyter environment.
+
+## Repository Structure
+The notebook was tested on DataHub with Python ≥ 3.10.
+
+Required packages:
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- astroquery
+
+## Running the Analysis (DataHub)
