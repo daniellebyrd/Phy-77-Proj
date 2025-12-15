@@ -15,3 +15,6 @@ Required packages:
 - astroquery
 
 ## Running the Analysis (DataHub)
+
+git clone https://github.com/<daniellebyrd>/projGaia_DR3_Open_Cluster_pms.git
+cd projGaia_DR3_Open_Cluster_pms
